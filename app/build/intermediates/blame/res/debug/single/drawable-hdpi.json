@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/res/merged/debug/drawable-hdpi/cojhbblk.png",
+        "source": "/home/riaz/Downloads/POC_CityOfJoburg/app/src/main/res/drawable-hdpi/cojhbblk.png"
+    },
+    {
+        "merged": "/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/res/merged/debug/drawable-hdpi/coj_logo.png",
+        "source": "/home/riaz/Downloads/POC_CityOfJoburg/app/src/main/res/drawable-hdpi/coj_logo.png"
+    },
+    {
+        "merged": "/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/res/merged/debug/drawable-hdpi/blackandwhitecity.png",
+        "source": "/home/riaz/Downloads/POC_CityOfJoburg/app/src/main/res/drawable-hdpi/blackandwhitecity.png"
+    },
+    {
+        "merged": "/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/res/merged/debug/drawable-hdpi/coj.png",
+        "source": "/home/riaz/Downloads/POC_CityOfJoburg/app/src/main/res/drawable-hdpi/coj.png"
+    },
+    {
+        "merged": "/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/res/merged/debug/drawable-hdpi/sojhb.png",
+        "source": "/home/riaz/Downloads/POC_CityOfJoburg/app/src/main/res/drawable-hdpi/sojhb.png"
+    }
+]

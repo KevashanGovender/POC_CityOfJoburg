@@ -1,0 +1,7 @@
+#Tue Feb 14 15:11:10 SAST 2017
+base.0=/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8fed0033480312c64c1caa02fcaa516927759f4
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4bf99b19f0e3c6ea5b0696aa429f6811fb6621/classes.dex
+base.1=/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9f4bf99b19f0e3c6ea5b0696aa429f6811fb6621
+file.0=/home/riaz/Downloads/POC_CityOfJoburg/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e8fed0033480312c64c1caa02fcaa516927759f4/classes.dex
